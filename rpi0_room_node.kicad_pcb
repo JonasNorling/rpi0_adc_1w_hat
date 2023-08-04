@@ -1747,7 +1747,7 @@
 
   (footprint "elemental:elemental-25.4mm" (layer "B.Cu")
     (tedit 0) (tstamp b0af82f5-53ec-4973-a9b2-c05d324ca730)
-    (at 128.5 122 180)
+    (at 135.25 107.25 180)
     (attr through_hole)
     (fp_text reference "G***" (at 0 0) (layer "B.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
@@ -2763,7 +2763,7 @@
   (gr_text "1W" (at 155 118 90) (layer "F.SilkS") (tstamp 35b3e720-74a0-461b-b5f3-539da692d29e)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (gr_text "RPi0 ADC/1W hat\nJonas Norling\n2023" (at 116 120) (layer "F.SilkS") (tstamp 54a64804-d653-4295-b235-4a37c41c1ea5)
+  (gr_text "RPi0 ADC/1W hat\nJonas Norling\n2023" (at 115.5 120) (layer "F.SilkS") (tstamp 54a64804-d653-4295-b235-4a37c41c1ea5)
     (effects (font (size 1.3 1.3) (thickness 0.25)) (justify left))
   )
   (gr_text "AIN0" (at 141.5 119 270) (layer "F.SilkS") (tstamp af2dd7a7-b42a-4688-8416-1f0885985f94)
